@@ -25,8 +25,8 @@
 // =====================================================
 // Konfiguration
 // =====================================================
-#define WIFI_SSID           "Kreatron2"
-#define WIFI_PASSWORD       "gast2016"
+#define WIFI_SSID           "xxxxx"
+#define WIFI_PASSWORD       "xxxxx"
 
 #define FREQUENCY_URL          "https://dat.netzfrequenzmessung.de:9080/frequenz.xml"
 #define UPDATE_INTERVAL_MS     5000UL
